@@ -56,7 +56,4 @@ const prevSlide = () => {
     })
 }); 
 
-/* 
 const interval = setInterval(nextSlide, 3000);
-
- */
